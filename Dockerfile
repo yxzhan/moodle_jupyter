@@ -1,1 +1,1 @@
-FROM yxzhan/intel4coro:jupyterhub-0.1.6
+FROM yxzhan/intel4coro:binderhub-0.0.1
