@@ -1,1 +1,1 @@
-FROM yxzhan/intel4coro:jupyterhub-0.1.5
+FROM jupyter/minimal-notebook:latest
