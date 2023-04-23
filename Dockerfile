@@ -1,3 +1,2 @@
-FROM yxzhan/intel4coro:binderhub-0.0.3
+FROM yxzhan/intel4coro:binderhub-0.0.4
 
-RUN jupyter lab workspaces import /home/jovyan/moodle_jupyter/workspace.json
