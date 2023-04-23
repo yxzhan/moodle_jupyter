@@ -1,3 +1,4 @@
-FROM yxzhan/intel4coro:binderhub-0.0.2
+FROM yxzhan/intel4coro:binderhub-0.0.3
 
-ENTRYPOINT ["/home/jovyan/lectures/init.sh"]
+# RUN echo "source ${ROS_PATH}/setup.bash" >> /home/${NB_USER}/.bashrc
+# RUN echo "source ${ROS_PATH}/setup.bash" >> /home/${NB_USER}/.bashrc
