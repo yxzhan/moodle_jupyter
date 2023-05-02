@@ -1,2 +1,2 @@
-FROM yxzhan/intel4coro:binderhub-0.0.5
+FROM yxzhan/intel4coro:binderhub-0.0.6
 
